@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rickruler
 - 👀 I’m interested in software development and game development(secondary)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing have a long way to go
+- 🌱 I’m currently learning python and Git/Github
+- 💞️ I’m looking to collaborate and learn from programmers on any projects right now
 - 📫 How to reach me ...
 
 <!---
